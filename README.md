@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaydjd
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C#
+- 🌱 Familiar with JavaScript
 - 📫 How to reach me: Baunsu#7199 on Discord, @notzayd.d on Instagram (less likely)
 
 <!---
