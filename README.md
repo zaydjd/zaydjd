@@ -1,11 +1,9 @@
 Hi, I’m Zayd, a CS Major at SDSU
-I'm mainly interested in Game and Web Development!
 
-My language experience includes:
-  - Learned JavaScript/TypeScript, Java, and Python
-    - WebDev through React
-  - Attempted to learn: C++, PHP, Bash, and Lua
-  - Am interested in learning: C, Rust, and C#
+Notable projects:
+- Fresh Coat, a game developed in Unity
+- Nazrin Bot, a Discord bot developed using discord.js
+- Stock Market Portfolio, a webapp developed using AWS and React
  
 I can be contacted by Baunsu#7199 on Discord, or @notzayd.d on Instagram
 
