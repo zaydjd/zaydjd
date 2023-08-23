@@ -5,8 +5,7 @@ Notable projects:
 - Nazrin Bot, a Discord bot developed using discord.js
 - Stock Market Portfolio, a webapp developed using AWS and React
  
-I can be contacted by Baunsu#7199 on Discord, or @notzayd.d on Instagram
-
+I can be contacted by baunsu on Discord
 <!---
 zaydjd/zaydjd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
