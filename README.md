@@ -1,4 +1,4 @@
-Hi, I’m Zayd, a CS Major at SDSU
+Hi, I’m Zayd, a Computer Science student
 
 Notable projects:
 - Fresh Coat, a game developed in Unity
